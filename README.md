@@ -2,9 +2,7 @@
 - 👀 I’m interested in digital marketing, frontend development, product management and startups.
 - 🌱 I’m currently learning SQL, JS, growth marketing.
 - 💞️ I’m looking to collaborate on startups in digital/growth marketing.
-- 📫 How to reach me:
-Email: nmdsteppe@gmail.com
-Telegram: @nmdsteppe
+- 📫 How to reach me: nmdsteppe@gmail.com / @nmdsteppe (telegram)
 
 <!---
 nmdsteppe/nmdsteppe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
