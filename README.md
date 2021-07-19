@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmdsteppe
+- 👋 Hi, I’m Madiyar.
 - 👀 I’m interested in digital marketing, frontend development, product management and startups.
 - 🌱 I’m currently learning SQL, JS, growth marketing.
 - 💞️ I’m looking to collaborate on startups in digital/growth marketing specialist role.
