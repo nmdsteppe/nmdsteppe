@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nmdsteppe
 - 👀 I’m interested in digital marketing, frontend development, product management and startups.
 - 🌱 I’m currently learning SQL, JS, growth marketing.
-- 💞️ I’m looking to collaborate on startups in digital/growth marketing.
+- 💞️ I’m looking to collaborate on startups in digital/growth marketing specialist role.
 - 📫 How to reach me: nmdsteppe@gmail.com / @nmdsteppe (telegram)
 
 <!---
